@@ -1,0 +1,1133 @@
+[
+  {
+    "id": 1,
+    "nom": "Lentilles",
+    "calories_100g": 353,
+    "proteines_100g": 23.6,
+    "glucides_100g": 62.2,
+    "lipides_100g": 1.9,
+    "fibres_100g": 10.7,
+    "sodium_100g": 0,
+    "index_glycemique": 32,
+    "local": true,
+    "categorie": "légumineuse",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "lentilles"
+  },
+  {
+    "id": 2,
+    "nom": "Pois chiches secs",
+    "calories_100g": 364,
+    "proteines_100g": 21.3,
+    "glucides_100g": 60.4,
+    "lipides_100g": 6.3,
+    "fibres_100g": 17.4,
+    "sodium_100g": 8.8,
+    "index_glycemique": 28,
+    "local": true,
+    "categorie": "légumineuse",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "pois_chiches"
+  },
+  {
+    "id": 3,
+    "nom": "Semoule grossière (couscous)",
+    "calories_100g": 360,
+    "proteines_100g": 11.7,
+    "glucides_100g": 73.8,
+    "lipides_100g": 1.6,
+    "fibres_100g": 3.2,
+    "sodium_100g": 0,
+    "index_glycemique": 65,
+    "local": true,
+    "categorie": "céréale",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "semoule"
+  },
+  {
+    "id": 4,
+    "nom": "Semoule fine (galette)",
+    "calories_100g": 355,
+    "proteines_100g": 13.3,
+    "glucides_100g": 72.0,
+    "lipides_100g": 1.8,
+    "fibres_100g": 3.7,
+    "sodium_100g": 0.4,
+    "index_glycemique": 60,
+    "local": true,
+    "categorie": "céréale",
+    "repas": [
+      "petit_dejeuner",
+      "dejeuner"
+    ],
+    "food_id": "semoule_fine"
+  },
+  {
+    "id": 5,
+    "nom": "Farine d'orge",
+    "calories_100g": 354,
+    "proteines_100g": 8.7,
+    "glucides_100g": 77.4,
+    "lipides_100g": 2.5,
+    "fibres_100g": 12.8,
+    "sodium_100g": 20.3,
+    "index_glycemique": 35,
+    "local": true,
+    "categorie": "céréale",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "farine_orge"
+  },
+  {
+    "id": 6,
+    "nom": "Carottes",
+    "calories_100g": 41,
+    "proteines_100g": 0.9,
+    "glucides_100g": 10.3,
+    "lipides_100g": 0.4,
+    "fibres_100g": 3.1,
+    "sodium_100g": 86.6,
+    "index_glycemique": 35,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "carottes"
+  },
+  {
+    "id": 7,
+    "nom": "Tomates",
+    "calories_100g": 18,
+    "proteines_100g": 0.7,
+    "glucides_100g": 3.8,
+    "lipides_100g": 0.4,
+    "fibres_100g": 1.0,
+    "sodium_100g": 0,
+    "index_glycemique": 30,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "tomates"
+  },
+  {
+    "id": 8,
+    "nom": "Oignons",
+    "calories_100g": 38.0,
+    "proteines_100g": 0.8,
+    "glucides_100g": 8.6,
+    "lipides_100g": 0.1,
+    "fibres_100g": 1.9,
+    "sodium_100g": 1.0,
+    "index_glycemique": 15,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "oignons"
+  },
+  {
+    "id": 9,
+    "nom": "Ail",
+    "calories_100g": 143,
+    "proteines_100g": 6.6,
+    "glucides_100g": 28.2,
+    "lipides_100g": 0.4,
+    "fibres_100g": 2.7,
+    "sodium_100g": 0,
+    "index_glycemique": 30,
+    "local": true,
+    "categorie": "épice",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "ail"
+  },
+  {
+    "id": 10,
+    "nom": "Figues sèches",
+    "calories_100g": 249,
+    "proteines_100g": 3.3,
+    "glucides_100g": 63.9,
+    "lipides_100g": 0.9,
+    "fibres_100g": 9.8,
+    "sodium_100g": 10.0,
+    "index_glycemique": 51,
+    "local": true,
+    "categorie": "fruit",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "figues_seches"
+  },
+  {
+    "id": 11,
+    "nom": "Oranges",
+    "calories_100g": 47.0,
+    "proteines_100g": 0.9,
+    "glucides_100g": 11.8,
+    "lipides_100g": 0.1,
+    "fibres_100g": 2.0,
+    "sodium_100g": 9.0,
+    "index_glycemique": 43,
+    "local": true,
+    "categorie": "fruit",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "oranges"
+  },
+  {
+    "id": 12,
+    "nom": "Pastèque",
+    "calories_100g": 30,
+    "proteines_100g": 0.9,
+    "glucides_100g": 7.6,
+    "lipides_100g": 0,
+    "fibres_100g": 0.4,
+    "sodium_100g": 0,
+    "index_glycemique": 72,
+    "local": true,
+    "categorie": "fruit",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "pasteque"
+  },
+  {
+    "id": 13,
+    "nom": "Épinards",
+    "calories_100g": 23,
+    "proteines_100g": 2.9,
+    "glucides_100g": 2.6,
+    "lipides_100g": 0.6,
+    "fibres_100g": 1.6,
+    "sodium_100g": 107,
+    "index_glycemique": 15,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "epinards"
+  },
+  {
+    "id": 14,
+    "nom": "Courgettes",
+    "calories_100g": 17,
+    "proteines_100g": 1.0,
+    "glucides_100g": 3.3,
+    "lipides_100g": 0.2,
+    "fibres_100g": 0.8,
+    "sodium_100g": 0,
+    "index_glycemique": 15,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "courgettes"
+  },
+  {
+    "id": 15,
+    "nom": "Thon en conserve",
+    "calories_100g": 90.0,
+    "proteines_100g": 19.0,
+    "glucides_100g": 0.1,
+    "lipides_100g": 0.9,
+    "fibres_100g": 0,
+    "sodium_100g": 219,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "poisson",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "thon"
+  },
+  {
+    "id": 16,
+    "nom": "Œufs",
+    "calories_100g": 148,
+    "proteines_100g": 12.4,
+    "glucides_100g": 1.0,
+    "lipides_100g": 10.0,
+    "fibres_100g": 0,
+    "sodium_100g": 129,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "produit_laitier",
+    "repas": [
+      "petit_dejeuner",
+      "dejeuner"
+    ],
+    "food_id": "oeufs"
+  },
+  {
+    "id": 17,
+    "nom": "Blanc de poulet",
+    "calories_100g": 166,
+    "proteines_100g": 32.1,
+    "glucides_100g": 0,
+    "lipides_100g": 3.2,
+    "fibres_100g": 0,
+    "sodium_100g": 47.0,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "viande",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "poulet_blanc"
+  },
+  {
+    "id": 18,
+    "nom": "Cuisse de poulet",
+    "calories_100g": 156,
+    "proteines_100g": 23.9,
+    "glucides_100g": 0,
+    "lipides_100g": 6.0,
+    "fibres_100g": 0,
+    "sodium_100g": 117,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "viande",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "poulet_cuisse"
+  },
+  {
+    "id": 19,
+    "nom": "Agneau haché",
+    "calories_100g": 258,
+    "proteines_100g": 17.5,
+    "glucides_100g": 0,
+    "lipides_100g": 18.6,
+    "fibres_100g": 0,
+    "sodium_100g": 53.4,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "viande",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "agneau_hache"
+  },
+  {
+    "id": 20,
+    "nom": "Bœuf haché",
+    "calories_100g": 254,
+    "proteines_100g": 17.5,
+    "glucides_100g": 0,
+    "lipides_100g": 19.4,
+    "fibres_100g": 0,
+    "sodium_100g": 54.9,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "viande",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "buf_hache"
+  },
+  {
+    "id": 21,
+    "nom": "Lait entier",
+    "calories_100g": 60.0,
+    "proteines_100g": 3.3,
+    "glucides_100g": 4.6,
+    "lipides_100g": 3.2,
+    "fibres_100g": 0,
+    "sodium_100g": 38.0,
+    "index_glycemique": 27,
+    "local": true,
+    "categorie": "produit_laitier",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "lait"
+  },
+  {
+    "id": 22,
+    "nom": "Yaourt nature (lben)",
+    "calories_100g": 61,
+    "proteines_100g": 3.8,
+    "glucides_100g": 5.6,
+    "lipides_100g": 4.5,
+    "fibres_100g": 0,
+    "sodium_100g": 41.8,
+    "index_glycemique": 36,
+    "local": true,
+    "categorie": "produit_laitier",
+    "repas": [
+      "petit_dejeuner",
+      "diner"
+    ],
+    "food_id": "yaourt"
+  },
+  {
+    "id": 23,
+    "nom": "Huile d'olive",
+    "calories_100g": 884,
+    "proteines_100g": 0,
+    "glucides_100g": 0,
+    "lipides_100g": 0,
+    "fibres_100g": 0,
+    "sodium_100g": 0,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "matière_grasse",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "huile_olive"
+  },
+  {
+    "id": 24,
+    "nom": "Beurre",
+    "calories_100g": 717,
+    "proteines_100g": 0,
+    "glucides_100g": 0,
+    "lipides_100g": 81.5,
+    "fibres_100g": 0,
+    "sodium_100g": 10.0,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "matière_grasse",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "beurre"
+  },
+  {
+    "id": 25,
+    "nom": "Pommes de terre",
+    "calories_100g": 77,
+    "proteines_100g": 2.3,
+    "glucides_100g": 17.8,
+    "lipides_100g": 0.4,
+    "fibres_100g": 0,
+    "sodium_100g": 2.7,
+    "index_glycemique": 65,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "pommes_de_terre"
+  },
+  {
+    "id": 26,
+    "nom": "Riz blanc",
+    "calories_100g": 365,
+    "proteines_100g": 7.0,
+    "glucides_100g": 80.3,
+    "lipides_100g": 1.0,
+    "fibres_100g": 0.1,
+    "sodium_100g": 0.5,
+    "index_glycemique": 73,
+    "local": true,
+    "categorie": "céréale",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "riz"
+  },
+  {
+    "id": 27,
+    "nom": "Poivrons rouges",
+    "calories_100g": 31,
+    "proteines_100g": 0.9,
+    "glucides_100g": 6.7,
+    "lipides_100g": 0.1,
+    "fibres_100g": 1.2,
+    "sodium_100g": 0,
+    "index_glycemique": 32,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "poivrons_rouges"
+  },
+  {
+    "id": 28,
+    "nom": "Poivrons verts",
+    "calories_100g": 20,
+    "proteines_100g": 0.7,
+    "glucides_100g": 4.8,
+    "lipides_100g": 0.1,
+    "fibres_100g": 0.9,
+    "sodium_100g": 0,
+    "index_glycemique": 32,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "poivrons_verts"
+  },
+  {
+    "id": 29,
+    "nom": "Concombre",
+    "calories_100g": 15,
+    "proteines_100g": 0.6,
+    "glucides_100g": 3.0,
+    "lipides_100g": 0.2,
+    "fibres_100g": 0,
+    "sodium_100g": 1.5,
+    "index_glycemique": 15,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "concombre"
+  },
+  {
+    "id": 30,
+    "nom": "Aubergines",
+    "calories_100g": 25,
+    "proteines_100g": 0.9,
+    "glucides_100g": 5.4,
+    "lipides_100g": 0.1,
+    "fibres_100g": 2.5,
+    "sodium_100g": 0.4,
+    "index_glycemique": 20,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "aubergines"
+  },
+  {
+    "id": 31,
+    "nom": "Amandes",
+    "calories_100g": 579,
+    "proteines_100g": 21.5,
+    "glucides_100g": 20.0,
+    "lipides_100g": 51.1,
+    "fibres_100g": 10.8,
+    "sodium_100g": 0,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "fruit_sec",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "amandes"
+  },
+  {
+    "id": 32,
+    "nom": "Cacahuètes",
+    "calories_100g": 567,
+    "proteines_100g": 23.2,
+    "glucides_100g": 26.5,
+    "lipides_100g": 43.3,
+    "fibres_100g": 8.0,
+    "sodium_100g": 1.5,
+    "index_glycemique": 14,
+    "local": true,
+    "categorie": "fruit_sec",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "cacahuetes"
+  },
+  {
+    "id": 33,
+    "nom": "Farine de blé",
+    "calories_100g": 366,
+    "proteines_100g": 10.9,
+    "glucides_100g": 77.3,
+    "lipides_100g": 1.5,
+    "fibres_100g": 2.7,
+    "sodium_100g": 2.0,
+    "index_glycemique": 70,
+    "local": true,
+    "categorie": "céréale",
+    "repas": [
+      "petit_dejeuner",
+      "dejeuner"
+    ],
+    "food_id": "farine_ble"
+  },
+  {
+    "id": 34,
+    "nom": "Pommes",
+    "calories_100g": 52,
+    "proteines_100g": 0.1,
+    "glucides_100g": 15.7,
+    "lipides_100g": 0.2,
+    "fibres_100g": 2.1,
+    "sodium_100g": 1.0,
+    "index_glycemique": 38,
+    "local": true,
+    "categorie": "fruit",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "pommes"
+  },
+  {
+    "id": 35,
+    "nom": "Bananes",
+    "calories_100g": 97.0,
+    "proteines_100g": 0.7,
+    "glucides_100g": 23.0,
+    "lipides_100g": 0.3,
+    "fibres_100g": 1.7,
+    "sodium_100g": 0,
+    "index_glycemique": 51,
+    "local": true,
+    "categorie": "fruit",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "bananes"
+  },
+  {
+    "id": 36,
+    "nom": "Fromage blanc (jben)",
+    "calories_100g": 264,
+    "proteines_100g": 19.7,
+    "glucides_100g": 5.6,
+    "lipides_100g": 19.1,
+    "fibres_100g": 0,
+    "sodium_100g": 1030.0,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "produit_laitier",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "jben"
+  },
+  {
+    "id": 37,
+    "nom": "Yaourt grec",
+    "calories_100g": 97,
+    "proteines_100g": 8.8,
+    "glucides_100g": 4.8,
+    "lipides_100g": 4.4,
+    "fibres_100g": 0,
+    "sodium_100g": 33.8,
+    "index_glycemique": 11,
+    "local": false,
+    "categorie": "produit_laitier",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "yaourt_grec"
+  },
+  {
+    "id": 38,
+    "nom": "Haricots rouges",
+    "calories_100g": 77,
+    "proteines_100g": 7.8,
+    "glucides_100g": 21.0,
+    "lipides_100g": 1.3,
+    "fibres_100g": 6.4,
+    "sodium_100g": 172,
+    "index_glycemique": 29,
+    "local": true,
+    "categorie": "légumineuse",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "haricots_rouges"
+  },
+  {
+    "id": 39,
+    "nom": "Laitue",
+    "calories_100g": 17.0,
+    "proteines_100g": 1.2,
+    "glucides_100g": 3.2,
+    "lipides_100g": 0.3,
+    "fibres_100g": 1.8,
+    "sodium_100g": 0,
+    "index_glycemique": 15,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "laitue"
+  },
+  {
+    "id": 40,
+    "nom": "Anchois",
+    "calories_100g": 210,
+    "proteines_100g": 26.9,
+    "glucides_100g": 2.4,
+    "lipides_100g": 9.8,
+    "fibres_100g": 0,
+    "sodium_100g": 5400.0,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "poisson",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "anchois"
+  },
+  {
+    "id": 41,
+    "nom": "Sucre",
+    "calories_100g": 385,
+    "proteines_100g": 0,
+    "glucides_100g": 99.6,
+    "lipides_100g": 0.3,
+    "fibres_100g": 0,
+    "sodium_100g": 1.0,
+    "index_glycemique": 65,
+    "local": true,
+    "categorie": "autre",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "sucre"
+  },
+  {
+    "id": 42,
+    "nom": "Graines de tournesol",
+    "calories_100g": 612,
+    "proteines_100g": 21.0,
+    "glucides_100g": 17.1,
+    "lipides_100g": 56.1,
+    "fibres_100g": 10.3,
+    "sodium_100g": 532,
+    "index_glycemique": 35,
+    "local": true,
+    "categorie": "fruit_sec",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "graines_tournesol"
+  },
+  {
+    "id": 43,
+    "nom": "Filet de bœuf",
+    "calories_100g": 176,
+    "proteines_100g": 27.7,
+    "glucides_100g": 0,
+    "lipides_100g": 6.4,
+    "fibres_100g": 0,
+    "sodium_100g": 54.0,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "viande",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "filet_de_buf"
+  },
+  {
+    "id": 44,
+    "nom": "Petits pois",
+    "calories_100g": 77,
+    "proteines_100g": 4.7,
+    "glucides_100g": 12.7,
+    "lipides_100g": 1.1,
+    "fibres_100g": 0,
+    "sodium_100g": 207,
+    "index_glycemique": 51,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "petits_pois"
+  },
+  {
+    "id": 45,
+    "nom": "Sardines fraîches",
+    "calories_100g": 149,
+    "proteines_100g": 18.0,
+    "glucides_100g": 0.0,
+    "lipides_100g": 9.0,
+    "fibres_100g": 0.0,
+    "sodium_100g": 80.0,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "poisson",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "sardines"
+  },
+  {
+    "id": 46,
+    "nom": "Merlan frais",
+    "calories_100g": 90,
+    "proteines_100g": 18.0,
+    "glucides_100g": 0.0,
+    "lipides_100g": 1.5,
+    "fibres_100g": 0.0,
+    "sodium_100g": 70.0,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "poisson",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "merlan"
+  },
+  {
+    "id": 47,
+    "nom": "Pain kesra (galette)",
+    "calories_100g": 260,
+    "proteines_100g": 8.0,
+    "glucides_100g": 54.0,
+    "lipides_100g": 2.0,
+    "fibres_100g": 2.5,
+    "sodium_100g": 400.0,
+    "index_glycemique": 70,
+    "local": true,
+    "categorie": "céréale",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "pain_kesra"
+  },
+  {
+    "id": 48,
+    "nom": "Pain baguette",
+    "calories_100g": 270,
+    "proteines_100g": 9.0,
+    "glucides_100g": 55.0,
+    "lipides_100g": 1.5,
+    "fibres_100g": 2.0,
+    "sodium_100g": 500.0,
+    "index_glycemique": 75,
+    "local": true,
+    "categorie": "céréale",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "pain_baguette"
+  },
+  {
+    "id": 49,
+    "nom": "Couscous cuit",
+    "calories_100g": 178,
+    "proteines_100g": 6.0,
+    "glucides_100g": 36.0,
+    "lipides_100g": 0.5,
+    "fibres_100g": 2.2,
+    "sodium_100g": 5.0,
+    "index_glycemique": 65,
+    "local": true,
+    "categorie": "céréale",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "couscous_cuit"
+  },
+  {
+    "id": 50,
+    "nom": "Chorba (soupe)",
+    "calories_100g": 55,
+    "proteines_100g": 3.5,
+    "glucides_100g": 7.0,
+    "lipides_100g": 1.5,
+    "fibres_100g": 1.5,
+    "sodium_100g": 300.0,
+    "index_glycemique": 30,
+    "local": true,
+    "categorie": "plat",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "chorba"
+  },
+  {
+    "id": 51,
+    "nom": "Berkoukes",
+    "calories_100g": 170,
+    "proteines_100g": 5.5,
+    "glucides_100g": 35.0,
+    "lipides_100g": 0.8,
+    "fibres_100g": 1.8,
+    "sodium_100g": 10.0,
+    "index_glycemique": 60,
+    "local": true,
+    "categorie": "céréale",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "berkoukes"
+  },
+  {
+    "id": 52,
+    "nom": "Frik (blé vert concassé)",
+    "calories_100g": 340,
+    "proteines_100g": 14.0,
+    "glucides_100g": 68.0,
+    "lipides_100g": 2.5,
+    "fibres_100g": 8.0,
+    "sodium_100g": 5.0,
+    "index_glycemique": 43,
+    "local": true,
+    "categorie": "céréale",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "frik"
+  },
+  {
+    "id": 53,
+    "nom": "Navet",
+    "calories_100g": 28,
+    "proteines_100g": 0.9,
+    "glucides_100g": 6.4,
+    "lipides_100g": 0.1,
+    "fibres_100g": 1.8,
+    "sodium_100g": 67.0,
+    "index_glycemique": 30,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "navet"
+  },
+  {
+    "id": 54,
+    "nom": "Céleri",
+    "calories_100g": 16,
+    "proteines_100g": 0.7,
+    "glucides_100g": 3.0,
+    "lipides_100g": 0.2,
+    "fibres_100g": 1.6,
+    "sodium_100g": 80.0,
+    "index_glycemique": 35,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "celeri"
+  },
+  {
+    "id": 55,
+    "nom": "Potiron",
+    "calories_100g": 26,
+    "proteines_100g": 1.0,
+    "glucides_100g": 6.5,
+    "lipides_100g": 0.1,
+    "fibres_100g": 0.5,
+    "sodium_100g": 1.0,
+    "index_glycemique": 65,
+    "local": true,
+    "categorie": "légume",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "potiron"
+  },
+  {
+    "id": 56,
+    "nom": "Dattes Deglet Nour",
+    "calories_100g": 282,
+    "proteines_100g": 2.5,
+    "glucides_100g": 75.0,
+    "lipides_100g": 0.4,
+    "fibres_100g": 8.0,
+    "sodium_100g": 2.0,
+    "index_glycemique": 50,
+    "local": true,
+    "categorie": "fruit",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "dattes"
+  },
+  {
+    "id": 57,
+    "nom": "Raisins secs",
+    "calories_100g": 299,
+    "proteines_100g": 3.1,
+    "glucides_100g": 79.2,
+    "lipides_100g": 0.5,
+    "fibres_100g": 3.7,
+    "sodium_100g": 11.0,
+    "index_glycemique": 64,
+    "local": true,
+    "categorie": "fruit",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "raisins_secs"
+  },
+  {
+    "id": 58,
+    "nom": "Grenade",
+    "calories_100g": 83,
+    "proteines_100g": 1.7,
+    "glucides_100g": 18.7,
+    "lipides_100g": 1.2,
+    "fibres_100g": 4.0,
+    "sodium_100g": 3.0,
+    "index_glycemique": 35,
+    "local": true,
+    "categorie": "fruit",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "grenade"
+  },
+  {
+    "id": 59,
+    "nom": "Fromage fondu (La Vache)",
+    "calories_100g": 260,
+    "proteines_100g": 12.0,
+    "glucides_100g": 5.0,
+    "lipides_100g": 21.0,
+    "fibres_100g": 0.0,
+    "sodium_100g": 700.0,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "produit_laitier",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "fromage_fondu"
+  },
+  {
+    "id": 60,
+    "nom": "Lben (lait fermenté)",
+    "calories_100g": 40,
+    "proteines_100g": 3.5,
+    "glucides_100g": 4.5,
+    "lipides_100g": 0.5,
+    "fibres_100g": 0.0,
+    "sodium_100g": 50.0,
+    "index_glycemique": 30,
+    "local": true,
+    "categorie": "produit_laitier",
+    "repas": [
+      "petit_dejeuner",
+      "diner"
+    ],
+    "food_id": "lben"
+  },
+  {
+    "id": 61,
+    "nom": "Miel",
+    "calories_100g": 304,
+    "proteines_100g": 0.3,
+    "glucides_100g": 82.4,
+    "lipides_100g": 0.0,
+    "fibres_100g": 0.2,
+    "sodium_100g": 4.0,
+    "index_glycemique": 55,
+    "local": true,
+    "categorie": "autre",
+    "repas": [
+      "petit_dejeuner"
+    ],
+    "food_id": "miel"
+  },
+  {
+    "id": 62,
+    "nom": "Huile de table (tournesol)",
+    "calories_100g": 884,
+    "proteines_100g": 0.0,
+    "glucides_100g": 0.0,
+    "lipides_100g": 100.0,
+    "fibres_100g": 0.0,
+    "sodium_100g": 0.0,
+    "index_glycemique": 0,
+    "local": true,
+    "categorie": "matière_grasse",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "huile"
+  },
+  {
+    "id": 63,
+    "nom": "Pois cassés",
+    "calories_100g": 118,
+    "proteines_100g": 8.3,
+    "glucides_100g": 21.1,
+    "lipides_100g": 0.4,
+    "fibres_100g": 4.4,
+    "sodium_100g": 4.0,
+    "index_glycemique": 22,
+    "local": true,
+    "categorie": "légumineuse",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "pois_casses"
+  },
+  {
+    "id": 64,
+    "nom": "Fèves sèches",
+    "calories_100g": 341,
+    "proteines_100g": 26.1,
+    "glucides_100g": 58.3,
+    "lipides_100g": 1.5,
+    "fibres_100g": 25.0,
+    "sodium_100g": 13.0,
+    "index_glycemique": 40,
+    "local": true,
+    "categorie": "légumineuse",
+    "repas": [
+      "dejeuner",
+      "diner"
+    ],
+    "food_id": "feves"
+  }
+]
